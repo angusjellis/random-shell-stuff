@@ -13,3 +13,4 @@ bg
 disown %1
 
 then kill the terminal :)
+
